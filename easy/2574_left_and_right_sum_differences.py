@@ -1,4 +1,4 @@
-# 2574 Left and Right Sum Differences
+# 2574 Left and Right Sum Differences - Easy
 # https://leetcode.com/problems/left-and-right-sum-differences/
 # You are given a 0-indexed integer array nums of size n. Return an integer array answer of size n where answer[i] = |leftSum[i] - rightSum[i]|.
 # Tags: Array | Prefix Sum
