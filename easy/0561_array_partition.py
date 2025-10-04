@@ -5,16 +5,26 @@
 
 from typing import List
 
+# class Solution:
+#     def arrayPairSum(self, nums: List[int]) -> int:
+#         nums.sort(key=lambda x: x)
+#         i = 0
+#         sum = 0
+
+#         while i < len(nums):
+#             sum += min(nums[i], nums[i+1])
+#             i += 2
+
+#         return sum
+
 class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
-        nums.sort(key=lambda x: x)
-        i = 0
+        nums.sort(key = lambda x: x)
         sum = 0
 
-        while i < len(nums):
-            sum += min(nums[i], nums[i+1])
-            i += 2
-
+        for i in range(0, len(nums), 2):
+            sum += nums[i]
+        
         return sum
 
 if __name__ == "__main__":
