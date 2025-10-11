@@ -3,14 +3,18 @@
 | # | Title | Difficulty | Tags | Solution |
 |---|-------|------------|------|----------|
 | 1 | Two Sum | Easy | Array , Hash Table | [Python](easy/0001_two_sum.py) |
+| 21 | Merge Two Sorted Lists | Easy | Linked List , Recursion | [Python](easy/0021_merge_two_sorted_lists.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array , Two Pointers | [Python](easy/0026_remove_duplicates_from_sorted_array.py) |
 | 27 | Remove Element | Easy | Array , Two Pointers | [Python](easy/0027_remove_element.py) |
 | 35 | Search Insert Positiuon | Easy | Array , Binary Search | [Python](easy/0035_search_insert_position.py) |
+| 83 | Remove Duplicates from Sorted List | Easy | Linked List | [Python](easy/0083_remove_duplicates_from_sorted_list.py) |
 | 125 | Valid Palindrome | Easy | Two Pointers , String | [Python](easy/0125_valid_palindrome.py) |
 | 141 | Linked List Cycle | Easy | Hash Table , Linked List , Two Pointers | [Python](easy/0141_linked_list_cycle.py) |
 | 160 | Intersection of Two Linked Lists | Easy | Hash Table , Linked List , Two Pointers | [Python](easy/0160_intersection_of_two_linked_lists.py) |
 | 169 | Majority Element | Easy | Array , Hash Table , Divide and Conquer , Sorting , Counting | [Python](easy/0169_majority_element.py) |
 | 202 | Happy Number | Easy | Hash Table , Math , Two Pointers | [Python](easy/0202_happy_number.py) |
+| 203 | Remove Linked Lists Elements | Easy | Linked List , Recursion | [Python](easy/0203_remove_linked_lists_elements.py) |
+| 206 | Reverse Linked List | Easy | Linked List , Recursion | [Python](easy/0206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | Array , Hash Table , Sorting | [Python](easy/0217_contains_duplicate.py) |
 | 219 | Contains Duplicate II | Easy | Array , Hash Table , Sliding Window | [Python](easy/0219_contains_dupicate_ii.py) |
 | 225 | Implement Stack Using Queues | Easy | Stack , Design , Queue | [Python](easy/0225_implement_stack_using_queues.py) |
@@ -30,12 +34,16 @@
 | 441 | Arranging Coins | Easy | Math , Binary Search | [Python](easy/0441_arranging_coins.py) |
 | 455 | Assign Cookies | Easy | Array , Two Pointers , Greedy , Sorting | [Python](easy/0455_assign_cookies.py) |
 | 561 | Array Partition | Easy | Array , Greedy , Sorting , Counting Sort | [Python](easy/0561_array_partition.py) |
+| 643 | Maximum Average Subarray I | Easy | Array , Sliding Window | [Python](easy/0643_maximum_average_subarray_i.py) |
+| 705 | Design HashSet | Easy | Array , Hash Table , Linked List , Design , Hash Function | [Python](easy/0705_design_hashset.py) |
+| 876 | Middle of the Linked List | Easy | Linked List , Two Pointers | [Python](easy/0876_middle_of_the_linked_list.py) |
 | 905 | Sort Array By Parity | Easy | Array , Two Pointers , Sorting | [Python](easy/0905_sort_array_by_parity.py) |
 | 933 | Number of Recent Calls | Easy | Design , Queue , Data Stream | [Python](easy/0933_number_of_recent_calls.py) |
 | 977 | Squares of a Sorted Array | Easy | Array , Two Pointers , Sorting | [Python](easy/0977_squares_of_a_sorted_array.py) |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | String , Stack | [Python](easy/1047_remove_all_adjacent_duplicates_in_string.py) |
 | 1122 | Relative Sort Array | Easy | Array , Hash Table , Sorting , Counting Sort | [Python](easy/1122_relative_sort_array.py) |
 | 1221 | Split a String in Balanced Strings | Easy | String , Greedy , Counting | [Python](easy/1221_split_a_string_in_balanced_strings.py) |
+| 1290 | Convert Binary Number in a Linked List to Integer | Easy | Linked List , Math | [Python](easy/1290_convert_binary_number_in_a_linked_list_to_integer.py) |
 | 1480 | Running Sum of 1d Array | Easy | Array , Prefix Sum | [Python](easy/1480_running_sum_of_1d_array.py) |
 | 1512 | Number of Good Pairs | Easy | Array , Hash Table , Math , Counting | [Python](easy/1512_number_of_good_pairs.py) |
 | 1672 | Richest Customer Wealth | Easy | Array , Matrix | [Python](easy/1672_richest_customer_wealth.py) |
@@ -47,6 +55,7 @@
 | 2269 | Find the K-Beauty of a Number | Easy | Math , String , Sliding Window | [Python](easy/2269_find_the_k-beauty_of_a_number.py) |
 | 2574 | Left and Right Sum Differences | Easy | Array , Prefix Sum | [Python](easy/2574_left_and_right_sum_differences.py) |
 | 2696 | Minimum String Length After Removing Substring | Easy | String , Stack , Simulation | [Python](easy/2696_minimum_string_length_after_removing_substring.py) |
+| 3 | Longest Substring Without Repeating Characters | Medium | Hash Table , String , Sliding Window | [Python](medium/0003_longest_substring_without_repeating_characters.py) |
 | 27 | Next Permutation | Medium | Array , Two pointers | [Python](medium/0031_next_permutation.py) |
 | 33 | Search in Rotated Sorted Array | Medium | Array , Binary Search | [Python](medium/0033_search_in_rotated_sorted_array.py) |
 | 36 | Valid Sudoku | Medium | Array , Hash Table , Matrix | [Python](medium/0036_valid_sudoku.py) |
